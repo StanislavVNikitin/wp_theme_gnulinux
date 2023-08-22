@@ -1,0 +1,219 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnulinux 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"POT-Creation-Date: 2023-08-21 20:37+0300\n"
+"PO-Revision-Date: 2023-08-21 20:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: _s\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: archive.php:11
+msgid "Latest"
+msgstr "Последний"
+
+#: archive.php:23 index.php:52 search.php:19
+msgid "No entries"
+msgstr "Нет записей"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Одна мысль на &ldquo;%1$s&rdquo;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:52
+msgid "Header Menu"
+msgstr "Главное меню"
+
+#: functions.php:125
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:127
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: functions.php:212 functions.php:225
+msgid " min read"
+msgstr " мин. на чтение"
+
+#: functions.php:219
+msgid " ago"
+msgstr " назад"
+
+#: inc/admin-function.php:6
+msgid "GNULinux Theme Options"
+msgstr "GNULinux опции темы"
+
+#: inc/admin-function.php:6
+msgid "GNULinux"
+msgstr ""
+
+#: inc/admin-function.php:24
+msgid "Home page settings"
+msgstr "Настрокий главной страницы"
+
+#: inc/admin-function.php:25
+msgid "Social network"
+msgstr "Социальные сети"
+
+#: inc/admin-function.php:29
+msgid "Home article"
+msgstr "Главная статья"
+
+#: inc/admin-function.php:30
+msgid "Number of feateured posts"
+msgstr "Количество избранных постов"
+
+#: inc/admin-function.php:31
+msgid "Author avatar"
+msgstr "Аватар автора"
+
+#: inc/admin-function.php:32
+msgid "VK"
+msgstr "Вконтакте"
+
+#: inc/admin-function.php:33
+msgid "TG"
+msgstr "Телеграм"
+
+#: inc/admin-function.php:34
+msgid "Whathapp"
+msgstr "Whathapp"
+
+#: inc/admin-function.php:85 inc/admin-function.php:107
+msgid "Post selected: "
+msgstr "Выбраное сообщение: "
+
+#: inc/gnulinux-metabox.php:5
+msgid "Post Data"
+msgstr "Опубликовать данные"
+
+#: inc/gnulinux-metabox.php:17
+msgid "Number of minutes to read"
+msgstr "Количество минут на чтение"
+
+#: inc/gnulinux-metabox.php:25
+msgid "Add to featured post"
+msgstr "Добавить как избранный пост"
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Отмечен %1$s"
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий <span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/templates/gnulinux-options.php:2
+msgid "Theme Options Page"
+msgstr "Страница параметров темы"
+
+#: index.php:23
+msgid "Read More"
+msgstr "Читать далее"
+
+#: index.php:41
+msgid "All Stories"
+msgstr "Все истории"
+
+#: search.php:7
+msgid "Search by query:"
+msgstr "Поиск по запросу:"
+
+#: searchform.php:2 searchform.php:3
+msgid "Search"
+msgstr "Поиск"
+
+#: single.php:55
+msgid "Follow us"
+msgstr "Соц.сети"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свой первый пост? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствует условиям вашего поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно поиск поможет."
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content.php:8 template-parts/featured_category_post.php:28
+#: template-parts/featured_post-1.php:10 template-parts/featured_post-2.php:8
+msgid " in category: "
+msgstr " в категории: "
+
+#: template-parts/featured_category_post.php:17
+msgid "Featured in category: "
+msgstr "Представлено в категории: "
+
+#: template-parts/featured_posts.php:22
+msgid "Featured posts"
+msgstr "Популярные сообщения"
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try one of the "
+#~ "links below or a search?"
+#~ msgstr ""
+#~ "Похоже, что ничего не было найдено в этом месте. Может попробовать одну "
+#~ "из ссылок ниже или поиск?"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Наиболее используемые категории"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"

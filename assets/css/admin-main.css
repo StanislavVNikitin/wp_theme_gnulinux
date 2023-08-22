@@ -1,0 +1,18 @@
+.button.delete-main-post {
+    color: mediumvioletred;
+    border-color: mediumvioletred;
+    background-color: white;
+    font-size: 20px;
+    line-height: 20px;
+}
+.button.delete-main-post:hover {
+    color: #bb2d3b;
+    border-color: #b02a37;
+    background-color: white;
+
+}
+
+.gnulinux-upl img {
+    border-radius: 50%;
+    max-width: 150px;
+}
